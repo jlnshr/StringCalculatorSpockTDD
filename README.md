@@ -10,6 +10,7 @@ This TDD Kata is about creating a StringCalculator.
     2. Implement code as simple as the test succeeds
     3. Refactor your code if necessary
     4. Continue with first step
+* Special rule for this TDD Kata: Use Spock for writing tests.
 
 ## String Calculator
 
