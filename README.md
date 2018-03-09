@@ -22,7 +22,6 @@ This TDD Kata is about creating a StringCalculator.
 
 
    * Allow the Add method to handle an unknown amount of numbers
-   * Allow the Add method to handle new lines b
 
 ## Allow the Add method to handle new lines between numbers (instead of commas).
 
