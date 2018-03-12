@@ -6,8 +6,8 @@ class StringCalculator {
 
     static String add(String input) {
 
-        if (input.contains(",") && input.contains("\n")) {
-            throw new IllegalArgumentException("Invalid input!")
+        if(input.isEmpty()){
+            return "0"
         }
 
         String newSplitPattern = OPENING_BRACKET + SPLIT_PATTERN

@@ -16,6 +16,7 @@ class StringCalculatorSpec extends Specification {
         input          | output
         "1"            | "1"
         "0"            | "0"
+        ""             | "0"
         "1,2"          | "3"
         "1,5,4,10,100" | "120"
         "1\n2"         | "3"
